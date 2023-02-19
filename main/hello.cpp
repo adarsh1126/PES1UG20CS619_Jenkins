@@ -6,6 +6,6 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout <<"Changes made after adding webhook\n";
+  cout << "Changes made after adding webhook\n";
   return 0;
 }
